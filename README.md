@@ -1,15 +1,12 @@
-# Room Reviewer
+# Humane Society
 
-#### An Application that reviews rooms, May 20, 2016
+#### An Application that mimics the Oregon Humane Society
 
-#### By Fernanda Lowe, Farnoosh Johnson, Reed Lambier, Scott McIntire
+#### By Scott McIntire and Kevin Deganos
 
 ## Description
 
-This application let users write reviews on rooms they are or have rented, or just read one, as well as:
-
-1. search for reviews
-2. add, update, delete a review
+This application lets users view a list of adoptable pets, as well as click an individual pet and read a description.
 
 ## Setup/Installation Requirements
 You will need the following programs installed on your computer.
